@@ -1,0 +1,27 @@
+<misterromdescription>
+	<name>Demolition Derby</name>
+	<mameversion>0217</mameversion>
+	<mratimestamp>20200111215805</mratimestamp>
+	<year>1984</year>
+	<manufacturer>Bally Midway</manufacturer>
+	<category>Driving / Demolition Derby</category>
+	<rbf>DemoDerby</rbf>
+	<rom index="0" zip="demoderb.zip" md5="A414DC01511CDC325815A7A6C6E56C80">
+		<part crc="be7da2f3" name="demo_drby_pro_0"/>
+		<part crc="c6f6604c" name="demo_drby_pro_1"/>
+		<part crc="fa93b9d9" name="demo_drby_pro_2"/>
+		<part crc="4e964883" name="demo_drby_pro_3"/>
+		<part crc="eca33b2c" name="tcs_u5.bin"/>
+		<part crc="3490289a" name="tcs_u4.bin"/>
+		<part crc="e57a4de6" name="demo_derby_fg0_a4.a4"/>
+		<part crc="55aa667f" name="demo_derby_fg4_a3.a3"/>
+		<part crc="70259651" name="demo_derby_fg1_a6.a6"/>
+		<part crc="5fe99007" name="demo_derby_fg5_a5.a5"/>
+		<part crc="6cab7b95" name="demo_derby_fg2_a8.a8"/>
+		<part crc="abfb9a8b" name="demo_derby_fg6_a7.a7"/>
+		<part crc="801d9b86" name="demo_derby_fg3_a10.a10"/>
+		<part crc="0ec3f60a" name="demo_derby_fg7_a9.a9"/>
+		<part crc="cf80be19" name="demo_derby_bg_06f.6f"/>
+		<part crc="4e173e52" name="demo_derby_bg_15f.5f"/>
+	</rom>
+</misterromdescription>
